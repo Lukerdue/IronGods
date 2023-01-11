@@ -255,7 +255,7 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Creatures:**
   - 3x [Gearghost^]()
 - **Loot:**
-  - Gold leaf, valuable silverware, crystal goblets, misc. valuables worth 85g
+  - Gold leaf, valuable silverware, crystal goblets, and miscellaneous valuables worth 85g
 
 ### F10. Supply Closet
 
@@ -318,8 +318,8 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Hazards:**
   - 1x [Shocking Door^]()
 - **Loot:** Fine tapestries
-  - Fine Tapestries and Bedclothes (2 bluk altogether, worth 40gp)
-- **Loot:** Secret Shelf
+  - Fine Tapestries and Bedclothes (5 bluk altogether, worth 40gp)
+- **Loot:** Secret Shelf (DC 31 perception)
   - 3 spellbooks (wizard 14)
 - **Creatures:**
   - 1x [Furkas Xoud^](Creatures/README.md#furkas-xoud)
