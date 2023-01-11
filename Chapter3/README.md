@@ -255,7 +255,7 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Creatures:**
   - 3x [Gearghost^]()
 - **Loot:**
-  - moni in the form of gold leaf stripped from furniture, silverware and other valuables looted from the tower.
+  - Gold leaf, valuable silverware, crystal goblets, misc. valuables worth 85g
 
 ### F10. Supply Closet
 
@@ -273,7 +273,7 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 
 - **Loot:**
   - 1x [Expanded Alchemist Lab](https://2e.aonprd.com/Equipment.aspx?ID=543)
-  - 3x potion of gaseous form
+  - 3x [potion of gaseous form](https://2e.aonprd.com/Spells.aspx?ID=129)
   - 1x [Cardioamp^](/Technology%20Guide/Pharmaceuticals/README.md#cardioamp)
   - 1x [Cureall^](/Technology%20Guide/Pharmaceuticals/README.md#cureall)
   - 3x [Grade III Hemochem^](/Technology%20Guide/Pharmaceuticals/README.md#hemochem)
@@ -284,7 +284,8 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Creatures:**
   - 1x [Mihstu]() - can be elemental tsunami be used?
 - **Treasures:** Dead dwarf
-  - some moni
+  - Garnet worth 30gp
+  - Saphire worth 260gp
   - 1x [Pearlescent Pyramid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)
 
 ### F17. Lab 3: Gaseous Ooze Research (100 XP, Moderate Threat)
@@ -317,7 +318,7 @@ Note that Furkas Xoud only attacks for 2 rounds before retreating.
 - **Hazards:**
   - 1x [Shocking Door^]()
 - **Loot:** Fine tapestries
-  - some moni
+  - Fine Tapestries and Bedclothes (2 bluk altogether, worth 40gp)
 - **Loot:** Secret Shelf
   - 3 spellbooks (wizard 14)
 - **Creatures:**
